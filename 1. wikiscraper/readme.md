@@ -1,4 +1,4 @@
-simple wikipedia webscraper.
+simple wikipedia webscraper, that uses the wikipedia api.
 
 make sure to install the required libraries first tho:
 
